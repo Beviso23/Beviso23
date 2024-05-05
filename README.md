@@ -9,6 +9,6 @@
 
 ### Useful Links
 
-my-examples repo: [https://github.com/Beviso23/my-resources/tree/main/Examples]
+[my-examples](https://github.com/Beviso23/my-resources/tree/main/Examples)
 
-Interesting module: python notebooks with Google Collab: [https://github.com/Beviso23/CM515-course-2024/tree/main/modules/14_Google_Colab]
+Interesting module: [python notebooks with Google Collab](https://github.com/Beviso23/CM515-course-2024/tree/main/modules/14_Google_Colab)
